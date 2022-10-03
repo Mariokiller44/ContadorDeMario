@@ -65,11 +65,6 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    /*public void MostrarContador(){
-        TextView miTexto = (TextView)findViewById(R.id.contadorTexto);
-        miTexto.setText(" "+contador);
-    }*/
-
 
 
 
